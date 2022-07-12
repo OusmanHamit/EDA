@@ -1,6 +1,6 @@
 # EDA
 
-git clone https://github.com/OusmanHamit/JUPYTER-NOTEBOOK
+git clone https://github.com/OusmanHamit/EDA
 
 pip3 install virtualenv / python -m pip install --user virtualenv
 
